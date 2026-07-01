@@ -9,7 +9,7 @@ App(
     fap_category="Tools",
     fap_icon="images/app_icon_10x10.png",
     fap_icon_assets="images",
-    fap_author="resu95,
+    fap_author="resu95",
     fap_weburl="https://github.com/resu95/flipper_cocktail_book",
     fap_description="Cocktail Recipes",
 )
